@@ -1,0 +1,4 @@
+Acá se ve el uso de funciones y sus interacciones entre sí (como la recursividad), maneras de tomar elementos del 
+documento HTML y modificarlos, el uso correcto de la propiedad .value, cómo remover y agregar atributos a una 
+etiqueta en HTML desde Javascript, uso de arrays (como llenar las listas con .push, verificar si existe ya un 
+elemento en la lista con .includes) y una lógica curiosa con el if-else.
